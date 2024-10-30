@@ -1,0 +1,9 @@
+{
+  "limit": 10000,
+  "countdown": 300,
+  "country_time": "en-US",
+  "timeBoost": true,
+  "multiplierBoost": false,
+  "combinedBoost": false,
+  "playGame": true
+}
