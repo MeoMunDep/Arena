@@ -5,5 +5,9 @@
   "timeBoost": true,
   "multiplierBoost": false,
   "combinedBoost": false,
-  "playGame": true
+  "playGame": true,
+  "doTasks": true,
+  "delayEachAccount": [1, 81],
+  "howManyJumpingGames": 5,
+  "howMany1010Games": 5
 }
