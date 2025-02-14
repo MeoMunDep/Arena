@@ -9,7 +9,7 @@
 - Group: [Link](t.me/KeoAirDropFreeNe)
 - Channel: [Link](t.me/KeoAirDropFreeNee)
 
-> Help me with your referral [Link](https://t.me/Arenavsbot?start=ref_wsnSuGotQzEZQpAkmYW8iB)
+> Help me with your referral [Link](https://t.me/Arenavsbot?start=ref_wsnSuGotQzEZQpAkmYW8iB) | [Web version](https://arenavs.com/auth/sign-up?referral=k3871037)
 
 ## 🚀 Getting Started
 
