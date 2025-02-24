@@ -30,17 +30,19 @@ fi
 create_default_configs() {
     cat > configs.json << EOL
 {
-  "limit": 10000,
-  "countdown": 300,
-  "country_time": "en-US",
-  "timeBoost": true,
-  "multiplierBoost": false,
-  "combinedBoost": false,
-  "playGame": true,
   "doTasks": true,
-  "delayEachAccount": [1, 1],
+  "playGame": true,
+  "timeBoost": true,
+  "howMany1010Games": 5,
+  "combinedBoost": false,
+  "country_time": "en-US",
+  "multiplierBoost": false,
+  "skipInvalidProxy": true,
   "howManyJumpingGames": 0,
-  "howMany1010Games": 5
+  "referralCode": "5XZNJ0CX",
+  "delayEachAccount": [1, 1],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 1
 }
 EOL
 }
